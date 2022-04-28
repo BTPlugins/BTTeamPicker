@@ -1,0 +1,15 @@
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\BTTeamPicker.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\BTTeamPicker.pdb
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\Assembly-CSharp.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\Rocket.API.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\Rocket.Core.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\Rocket.Unturned.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\SDG.NetTransport.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\bin\Debug\UnityEngine.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\obj\Debug\BTTeamPicker.csproj.AssemblyReference.cache
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\obj\Debug\BTTeamPicker.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\obj\Debug\BTTeamPicker.csproj.CopyComplete
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\obj\Debug\BTTeamPicker.dll
+C:\Users\blaze\source\repos\BTTeamPicker\BTTeamPicker\obj\Debug\BTTeamPicker.pdb
