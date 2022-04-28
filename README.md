@@ -8,7 +8,7 @@ Create as many teams as you can dream of. Option to kill players on Team Switch,
 
 ## Commands
 /Team <Join | Leave> <Tag> - Allows players to Join / Leave Teams | ``BTTeamPicker.Team``
-<br/>/Teams - Displays all Team Options | ``BTTeamPicker``.DisplayTeams``
+<br/>/Teams - Displays all Team Options | ``BTTeamPicker.DisplayTeams``
 
 
 ## Get the Plugin Here
